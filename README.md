@@ -4,7 +4,7 @@ I’m a senior full-stack developer and jazz musician with 20+ years of experien
 I build and ship real-world platforms using Python (FastAPI), Node.js, TypeScript, React, and SQL.
 
 ---
-
+Below are a few highlighted projects showcasing my backend and full-stack skills in Python/FastAPI, Node.js, and React.
 ## 🚀 Featured Projects
 
 ### 🎷 JAM – Jazz‑A‑Minute  
@@ -36,6 +36,14 @@ I build and ship real-world platforms using Python (FastAPI), Node.js, TypeScrip
 - **Tech**: Python · FastAPI · Pydantic · SQLAlchemy · MySQL  
 - **Features**: Authentication, presigned URLs, modular code structure  
 🔗 [Check it out](https://github.com/yavuzakyazici/fastapi-portfolio)
+
+---
+
+🔧 fastapi-batch-scraper  
+A lightweight async web scraper built with FastAPI, BeautifulSoup, and httpx.  
+• Tech: FastAPI, httpx, BeautifulSoup, Docker  
+• Features: Async batch scraping, clean JSON output, reusable Postman collection  
+👉 [View Repo](https://github.com/yavuzakyazici/fastapi-batch-scraper)
 
 ---
 

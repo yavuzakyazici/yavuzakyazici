@@ -1,38 +1,49 @@
-# 👋 Hi, I'm Yavuz Akyazıcı
+# Yavuz Akyazıcı
 
-🎸 Jazz musician turned full-stack developer with 20+ years of experience crafting scalable systems and intuitive apps.  
-💡 Creator of **Jazz-A-Minute (JAM)** — a multilingual jazz education platform for iOS, Android, and Web.  
-🔧 I specialize in **Python**, **FastAPI**, **React Native**, **TypeScript**, and **MySQL**.  
+🎸 Jazz Musician | 💻 Full-Stack Developer | 📱 Indie App Creator
 
----
-
-## 🧰 Tech Stack
-
-- **Languages:** Python, JavaScript, TypeScript, SQL  
-- **Frameworks:** FastAPI, Flask, React Native, React, Node.js  
-- **DevOps & Tools:** Docker, AWS (S3, RDS, Lambda), Cloudflare R2  
-- **Practices:** REST APIs, CI/CD, JWT, SOLID, eTag Caching, TDD  
+I’m a senior full-stack developer with a passion for turning complex ideas into simple, polished experiences. I’ve built and launched **Jazz‑A‑Minute (J.A.M.)**, a cross-platform jazz education app used by paying subscribers, and I continue to expand my toolkit with powerful backend and frontend stacks.
 
 ---
 
-## 📦 Featured Projects
+## 📌 Featured Projects
 
-### 🎷 [Jazz-A-Minute (JAM)](https://apps.apple.com/tr/app/j-a-m/id6504705021)  
-A bilingual jazz education platform with lessons, videos, playback tools, and full admin control.  
-- **[Backend](https://github.com/yavuzakyazici/jam_pyt_service)** – FastAPI, SQLAlchemy, JWT, Cloudflare R2  
-- **[Mobile App](https://github.com/yavuzakyazici/jam_mobile)** – React Native  
-- **[Web App](https://github.com/yavuzakyazici/jam_web)** – React, Localization, Auth  
+### 🎶 Jazz‑A‑Minute (J.A.M.) – Full Stack Jazz Education Platform  
+**FastAPI · React Native · MySQL · AWS · Paddle**
 
----
+[Jazz-A-Minute (J.A.M.)](https://jazzaminute.com) is a cross-platform jazz education platform I designed and developed from scratch — featuring over 160 lessons with videos, sheet music, and backing tracks. It includes full authentication, subscriptions, and analytics.
 
-## 📄 Resume & Portfolio
+The backend and infrastructure are documented in the [FastAPI Portfolio Repo](https://github.com/yavuzakyazici/fastapi-portfolio).
 
-- [View Resume (PDF)](https://drive.google.com/file/d/1CA5AN32kjXZOv2vtWniUNmA-wA0MWxAt/view?usp=drive_link)
-- Portfolio website (coming soon…)
+🔗 [Visit App Website](https://jazzaminute.com) • 💻 [View Backend Repo](https://github.com/yavuzakyazici/fastapi-portfolio)
+
 
 ---
 
-## 🌍 I’m open to remote roles across Europe  
-Especially in Amsterdam, Dublin, Barcelona, Zurich, Helsinki, and other cities with vibrant music scenes.
+### 🧪 [Lesson API – Node.js + TypeScript](https://github.com/yavuzakyazici/lesson-api-node-ts)  
+**Node.js · Express · TypeScript**
 
-📫 Reach me at jazzphrase@gmail.com
+A clean and self-contained REST API inspired by the JAM backend. Built with Express and static TypeScript data, it demonstrates type-safe, modular architecture ideal for full-stack applications.
+
+🔗 [View the repo](https://github.com/yavuzakyazici/lesson-api-node-ts).
+
+---
+
+## 🛠 Skills & Technologies
+
+- **Languages**: TypeScript, JavaScript, Python, SQL
+- **Backend**: FastAPI, Node.js, Express, MySQL, SQLite
+- **Frontend**: React Native, Expo, React.js
+- **Infrastructure**: Docker, AWS, Cloudflare R2, GitHub Actions
+- **Tools**: Git, Figma, Paddle
+
+---
+
+## 🌍 Connect with Me
+
+- ✉️ Email: [yavuzakyazici@gmail.com](mailto:yavuzakyazici@gmail.com)  
+- 🌐 Website: [jazzaminute.com](https://jazzaminute.com)
+
+---
+
+⭐️ If you like what you see, feel free to star my repos or reach out — I'd love to chat about collaborating or opportunities!

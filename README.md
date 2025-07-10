@@ -14,6 +14,13 @@ I build and ship real-world platforms using Python (FastAPI), Node.js, TypeScrip
 - **Live Demo**: [jazzaminute.com](https://jazzaminute.com)  
 🔒 **Backend repo is private**, available on request.
 
+## Screenshots
+<img src="https://github.com/user-attachments/assets/a1ede03f-04f1-4ca8-b8b4-35b243940cc1" width="270">
+<img src="https://github.com/user-attachments/assets/fe0f32ec-03f2-4716-a5ba-54e4699e5685" width="270">
+<img src="https://github.com/user-attachments/assets/c73fd29c-3d1f-4ffc-bf07-c21c930a961c" width="270">
+<img src="https://github.com/user-attachments/assets/fecf58fb-759c-47c0-bd1a-df18c7f94bcb" width="270">
+<img src="https://github.com/user-attachments/assets/d1577385-c37a-49d9-8241-b6952752ef60" width="270">
+<img src="https://github.com/user-attachments/assets/d076d1fa-ea29-43b5-a592-c7229d3707b9" width="270">
 ---
 
 ### 🧠 lesson-api-node-ts  

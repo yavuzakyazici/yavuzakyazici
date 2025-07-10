@@ -12,8 +12,8 @@ Below are a few highlighted projects showcasing my backend and full-stack skills
 - **Tech**: FastAPI · React Native (Expo) · MySQL · Paddle · Cloudflare R2  
 - **Features**: JWT auth, Apple/Google Sign-In, subscriptions, media streaming, PDF & video delivery  
 - **Live Demo**: [jazzaminute.com](https://jazzaminute.com)  
-🔒 **Backend repo is private**, available on request.
-🚀 Production SaaS: Live on [iOS](https://apps.apple.com/us/app/j-a-m/id6504705021), [Android](https://play.google.com/store/apps/details?id=com.jazzaminute&hl=en), and [Web](https://jamweb.jazzaminute.com/)
+- 🔒 **Backend repo** is private — happy to share parts of it upon request.
+- 🚀 **Production SaaS**: Live on [iOS](https://apps.apple.com/us/app/j-a-m/id6504705021), [Android](https://play.google.com/store/apps/details?id=com.jazzaminute&hl=en), and [Web](https://jamweb.jazzaminute.com/)
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/a1ede03f-04f1-4ca8-b8b4-35b243940cc1" width="270">
